@@ -1,0 +1,16 @@
+Introduction : 
+Web development is the concept that encompasses all the activities involved with websites and web applications.
+web development is the umbrella term for conceptualizing creating deploying and operating web applications for the web.
+java offers higher cross-functionality and portability as programs written in one platform an run across desktops , mobiles ,embedded systems.
+java is free , simple ,object oriented , distributed , supports multithreading and offers multimedia and network support 
+being highly popular at enterprise . embedded and network level , java has a large active user community and support .
+Java has powerful development tools like eclipse capability and offer integrated development environment (IDE)
+
+Java2-EE : j2EE is a platform -independent , java centric environment developing , building and deploying web based enterprise applications online .
+The j2EE platform consists of a set services , Apis , and protocols that provide the functionality for developing multimedia ,web based 
+applications .
+Enterprise programming : It is used for creating and developing enterprise applications 
+A software application composition can be broken down into 3 fundamental logical layers
+Presentation layer : It is the user interface or frontend which is responsible for displaying stuff to the user and collecting data from the user 
+Business layer : In this layer the application works and handles the important processing 
+Data Access Layer : This part of the software is responsible and writing the data from the source that stores information 
