@@ -16,6 +16,10 @@ Presentation layer : It is the user interface or frontend which is responsible f
 Business layer : In this layer the application works and handles the important processing 
 Data Access Layer : This part of the software is responsible and writing the data from the source that stores information 
 
+## J2EE Three tier architecture Server and Container :
+<img> ![Graphical-Representation-of-J2EE-Architecture](https://github.com/user-attachments/assets/c84fae47-7b8a-43c0-b339-6201453c6c4b) </img>
+
+
 ## Client - Server Architecture :
 Client : Client is a computer which accepts data from the user and sends  request to the server for processing those data 
 server : A server is also a computer which accepts the data coming from the client processes it and send necessary responses back to the client from which the request came 
@@ -43,9 +47,18 @@ in three tier architecture the server splitted into two - 1) web server , 2) Dat
 2) Database responsible for storing the data
 if anyone of these two server fails then also the entire architecture crashes
 it more costlier that previous two architecture
-
+   ```
+    Presentation layer
+          |
+     Business layer or Data access layer
+          |
+     Database layer
+   ```
  ## N-tier architecture :
- 
+ The parallel servers works togather so in this architecture there lot of parallel servers which is also termd as proxy servers which are conneted to one another .if one srver fails then another server 
+ takes its position.
+ It is very costly due to maintainability of the servers so cost effective 
+ This architecture is used in mainly used in the enterprise applications 
 
 
 
